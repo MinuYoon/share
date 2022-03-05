@@ -7,4 +7,4 @@ SC share facebook
 
 • cd share
 
-• python sha.py
+• python share.py
